@@ -7,18 +7,18 @@ Unidada 3
 
 33-45
 
-![](Img/33.jpeg)
-![](Img/35.jpeg)
-![](Img/37,39.jpeg)
-![](Img/41.jpeg)
-![](Img/43.jpeg)
-![](Img/45.jpeg)
+![](Img/33.PNG)
+![](Img/35.PNG)
+![](Img/37,39.PNG)
+![](Img/41.PNG)
+![](Img/43.PNG)
+![](Img/45.PNG)
 
 Unidad 4
 
 2-14
 
-![](Img/2,4.jpeg)
-![](Img/6,8,10.jpeg)
-![](Img/12.jpeg)
-![](Img/14.jpeg)
+![](Img/2,4.PNG)
+![](Img/6,8,10.PNG)
+![](Img/12.PNG)
+![](Img/14.PNG)
