@@ -21,6 +21,24 @@
 3. RESOLUCIÓN Y EXPLICACIÓN DE EJERCICIOS:
 
 Unidada 3
+1-31
+![](Img/1.PNG)
+![](Img/3.PNG)
+![](Img/5.PNG)
+![](Img/7.PNG)
+![](Img/9.PNG)
+![](Img/1.PNG)
+![](Img/13.PNG)
+![](Img/15.PNG)
+![](Img/17.PNG)
+![](Img/19.PNG)
+![](Img/21.PNG)
+![](Img/23.PNG)
+![](Img/25.PNG)
+![](Img/27.PNG)
+![](Img/29.PNG)
+![](Img/31.PNG)
+
 
 
 
