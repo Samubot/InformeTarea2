@@ -8,6 +8,7 @@
 
 * Conocer los conceptos básicos sobre Ley de ohm, potencia y energía mediante el estudio de la teoría.
 
+
 ☻Específicos:
 
 * Estudiar los conceptos de corriente, potencia, conductancia y resistencia, mediante la realizacion de ejercición para entender su relación  y reforzar los conocimientos establecidos en clase.
@@ -49,6 +50,10 @@ Unidad 4
 
 * Tras aprender terminología y conocimientos base sobre voltaje, corriente y resistencia somos capaces de aplicarlos sobre circuitos eléctricos.
 
-*
+* Ahora somos capaces de calcular la resistividad de un material a cualquier temperatura.
+
+*  Tras aprender terminología y conocimientos base sobre voltaje, corriente y resistencia somos capaces de aplicarlos sobre circuitos eléctricos.
+
+* Nos dimos cuenta que a menor diametro de un cable, la corriente tiene mayor esfuerzo para pasar.
 
 6. BIBLIOGRAFÍA:
