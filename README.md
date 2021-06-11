@@ -56,6 +56,6 @@ Unidad 4
 
 * Nos dimos cuenta que a menor diametro de un cable, la corriente tiene mayor esfuerzo para pasar.
 
-*Ahora podemos resolver problemas que se nos puede presentar en la vida practica ya sea para la elegir la cantidad de materiales que se necesita o evitar algún contra tiempo por no hacerlo bien.
+* Ahora podemos resolver problemas que se nos puede presentar en la vida practica ya sea para la elegir la cantidad de materiales que se necesita o evitar algún contra tiempo por no hacerlo bien.
 
 6. BIBLIOGRAFÍA:
