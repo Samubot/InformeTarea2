@@ -2,13 +2,13 @@
 
 1. OBJETIVOS
 
--Generales:
+☻ Generales:
 
 * Ser capaces de reconocer resistencia y conductancia a profundidad de los conceptos fundamentales.
 
 * Conocer los conceptos básicos sobre Ley de ohm, potencia y energía mediante el estudio de la teoría.
 
--Específicos:
+☻Específicos:
 
 * Estudiar los conceptos de corriente, potencia, conductancia y resistencia, mediante la realizacion de ejercición para entender su relación  y reforzar los conocimientos establecidos en clase.
 
