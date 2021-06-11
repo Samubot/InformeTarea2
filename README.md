@@ -12,7 +12,7 @@
 
 * Estudiar los conceptos de corriente, potencia, conductancia y resistencia, mediante la realizacion de ejercición para entender su relación  y reforzar los conocimientos establecidos en clase.
 
-*
+*Estudiar la relación existente entre la resistencia eléctrica de un material y sus características intrínsecas.
 
 
 2. MARCO TEÓRICO:
@@ -46,5 +46,9 @@ Unidad 4
 4. VDEO:
 
 5. CONCLUSIONES:
+
+* Tras aprender terminología y conocimientos base sobre voltaje, corriente y resistencia somos capaces de aplicarlos sobre circuitos eléctricos.
+
+*
 
 6. BIBLIOGRAFÍA:
