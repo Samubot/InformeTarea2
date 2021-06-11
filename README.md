@@ -1,6 +1,15 @@
 # InformeTarea2
 Ejercicios del 3 y 4 capitulo
 
+1. OBJETIVOS
+
+-Generales:
+-Específicos:
+
+2. MARCO TEÓRICO:
+
+3. RESOLUCIÓN Y EXPLICACIÓN DE EJERCICIOS:
+
 Unidada 3
 
 
@@ -22,3 +31,11 @@ Unidad 4
 ![](Img/6,8,10.PNG)
 ![](Img/12.PNG)
 ![](Img/14.PNG)
+
+
+
+4. VDEO:
+
+5. CONCLUSIONES:
+
+6. BIBLIOGRAFÍA:
