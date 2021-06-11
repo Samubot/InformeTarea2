@@ -22,22 +22,22 @@
 
 Unidada 3
 1-31
-![](Img/1.PNG)
-![](Img/3.PNG)
-![](Img/5.PNG)
-![](Img/7.PNG)
-![](Img/9.PNG)
-![](Img/1.PNG)
-![](Img/13.PNG)
-![](Img/15.PNG)
-![](Img/17.PNG)
-![](Img/19.PNG)
-![](Img/21.PNG)
-![](Img/23.PNG)
-![](Img/25.PNG)
-![](Img/27.PNG)
-![](Img/29.PNG)
-![](Img/31.PNG)
+![](Img/1.jpg)
+![](Img/3.png)
+![](Img/5.png)
+![](Img/7.png)
+![](Img/9}.png)
+![](Img/1.png)
+![](Img/13.png)
+![](Img/15.png)
+![](Img/17.png)
+![](Img/19.png)
+![](Img/21.png)
+![](Img/23.png)
+![](Img/25.png)
+![](Img/27.png)
+![](Img/29.png)
+![](Img/31.png)
 
 
 
