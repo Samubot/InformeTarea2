@@ -59,3 +59,5 @@ Unidad 4
 * Ahora podemos resolver problemas que se nos puede presentar en la vida practica ya sea para la elegir la cantidad de materiales que se necesita o evitar algún contra tiempo por no hacerlo bien.
 
 6. BIBLIOGRAFÍA:
+
+Allan.H.Wilhelm.C.(2008). Análisis de circuitos teoría y práctica. Santa Fe, México: Cengage learning editores.
