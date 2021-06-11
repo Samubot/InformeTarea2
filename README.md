@@ -20,8 +20,10 @@
 
 3. RESOLUCIÓN Y EXPLICACIÓN DE EJERCICIOS:
 
-Unidada 3
+Unidad 3
+
 1-31
+
 ![](Img/1.jpg)
 ![](Img/3.png)
 ![](Img/5.png)
