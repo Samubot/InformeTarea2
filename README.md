@@ -18,6 +18,9 @@
 
 2. MARCO TEÓRICO:
 
+![](Img/mapa1-3.jpg)
+![](Img/mapa2-3.jpg)
+
 3. RESOLUCIÓN Y EXPLICACIÓN DE EJERCICIOS:
 
 Unidad 3
