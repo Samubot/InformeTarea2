@@ -94,6 +94,8 @@ Unidad 4
 
 4. VDEO:
 
+https://www.youtube.com/watch?v=ZBaJVg8Jajw
+
 5. CONCLUSIONES:
 
 * Tras aprender terminología y conocimientos base sobre voltaje, corriente y resistencia somos capaces de aplicarlos sobre circuitos eléctricos.
