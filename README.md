@@ -109,3 +109,4 @@ Unidad 4
 6. BIBLIOGRAFÍA:
 
 Allan.H.Wilhelm.C.(2008). Análisis de circuitos teoría y práctica. Santa Fe, México: Cengage learning editores.
+Bloque 3: Ley de ohm. Potencia eléctrica y energía | Circuitos eléctricos básicos. (2016, 2 marzo). http://www.iesvirgensoledad.es/tecnologia/ud_circuitos_electricos/bloque_3_ley_de_ohm_potencia_elctrica_y_energa.html
